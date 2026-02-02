@@ -85,7 +85,7 @@ Results were then visualised in Tableau through an interactive dashboard designe
 ***📈Tableau Dashboard Overview***
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="1363" height="763" alt="Screenshot 2026-02-02 at 17 26 13" src="https://github.com/user-attachments/assets/0c4ba0dd-0007-44c0-bb62-67b08f962f8d" />
+<img width="1375" height="785" alt="Screenshot 2026-02-02 at 17 31 56" src="https://github.com/user-attachments/assets/a0a486dc-5195-463c-b45a-3164095ca2a4" />
 
 
 
